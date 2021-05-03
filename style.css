@@ -72,11 +72,14 @@ span{
     font-weight: 700;
     color: white;
     text-align: center;
-    cursor: pointer;
     border-style: none;
     border-radius: 5px;
-    box-shadow: 0 0 20px rgba(100, 100, 100, 0.4);
+    box-shadow: 0 0 20px rgba(100, 100, 100, 0.5);
     background-color: hsl(71, 73%, 54%);
+}
+#sign_up:hover{
+    cursor: pointer;
+    background-color: hsl(71, 73%, 64%);
 }
 ul{
     margin-top: 20px;
@@ -89,11 +92,11 @@ li{
 }
 footer{
     margin: 0;
-    color: #AEB1B8;
+    color: #656566;
     text-align: center;
 }
 a{
-    color: #AEB1B8;
+    color: #656566;
     text-decoration: none;
 }
 @media (min-width: 600px) {
