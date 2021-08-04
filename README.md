@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component solution
 
-This is my solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). You can access the live site [here](https://lufesipe.github.io/Project-single-price-grid-component/).
+This is my solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). You can access the live site [here](https://lufesipe.github.io/Single-price-grid-component/).
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
